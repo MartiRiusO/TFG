@@ -1,0 +1,6 @@
+Código de Moneda,Tipo de Cambio
+EUR,0.7399 
+USD,1
+CAD,1.0187
+GBP,0.6650
+AUD,1.0908
