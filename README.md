@@ -29,4 +29,4 @@ TFG EN ENGINYERIA INFORMÀTICA, ESCOLA D’ENGINYERIA (EE), UNIVERSITAT AUTÒNOM
 
 ## Autor
 
-Treball realitzat per Martí Rrius Ollé i tutoritzat per Coen Antens
+Treball realitzat per Martí Rrius Ollé i tutoritzat per Coen Antens amb el suport de Mercanza.
